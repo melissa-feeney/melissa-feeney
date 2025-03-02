@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Melissa, an aspiring Software Engineer with a passion for problem-solving. Currently, I'm a student at TripleTen, diving deep into coding, algorithms, and software development best practices. Skills I've mastered so far: HTML/CSS, Git, GitHub, VSCode, Figma, Javascript... adding more all the time! 😄
+## Hi there, 👋
+I'm Melissa Feeney, an aspiring Software Engineer with a passion for problem-solving. Currently, I'm a student at TripleTen, diving deep into coding, algorithms, and software development best practices. Skills I've mastered so far: HTML/CSS, Git, GitHub, VSCode, Figma, Javascript... adding more all the time! 😄
 
 I'm always eager to learn, collaborate, and connect with like-minded developers. Whether you're working on a cool project or just want to chat about tech, feel free to reach out! 🚀
 
