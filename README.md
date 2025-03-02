@@ -1,6 +1,9 @@
 ## Hi there 👋
+I'm an aspiring Software Engineer with a passion for problem-solving and building impactful applications. Currently, I'm sharpening my skills as a student at TripleTen, diving deep into coding, algorithms, and software development best practices.
 
-<!--
+I'm always eager to learn, collaborate, and connect with like-minded developers. Whether you're working on an exciting project or just want to chat about tech, feel free to reach out! 🚀
+
+Let's connect! 💡<!--
 **melissa-feeney/melissa-feeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
